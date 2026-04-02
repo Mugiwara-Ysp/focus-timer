@@ -1,0 +1,14 @@
+{
+  "css.lint.unknownAtRules": "ignore",
+  "css.lint.emptyRules": "ignore",
+  "scss.lint.unknownAtRules": "ignore",
+  "scss.lint.emptyRules": "ignore",
+  "less.lint.unknownAtRules": "ignore",
+  "less.lint.emptyRules": "ignore",
+  "tailwindCSS.includeLanguages": {
+    "css": "css",
+    "html": "html",
+    "typescript": "html",
+    "typescriptreact": "html"
+  }
+}
